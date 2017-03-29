@@ -73,6 +73,7 @@ public class XMLXPath {
 				System.out.println(b.getPrice());
 				System.out.println(b.getPublish_date());
 				System.out.println(b.getDescription());
+				System.out.println(b.getCost());
 			}
 
 
